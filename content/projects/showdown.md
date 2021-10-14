@@ -6,6 +6,7 @@ description: "Showdown is a datapack for Minecraft: Java Edition that completely
 tags: ["minecraft", "datapacks", "games"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
 ---
 
 ### What is Showdown?

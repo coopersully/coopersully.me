@@ -6,6 +6,7 @@ description: "Vanilla Expansion is a datapack for Minecraft: Java Edition that a
 tags: ["minecraft", "datapacks", "games"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
 ---
 
 ### What is Vanilla Expansion?

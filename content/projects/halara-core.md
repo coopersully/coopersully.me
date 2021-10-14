@@ -6,6 +6,7 @@ description: "A spigot plugin that adds commands and mechanics for all servers o
 tags: ["minecraft", "plugins", "spigot"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
 ---
 
 ### Learn more about the project.

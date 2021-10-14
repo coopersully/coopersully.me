@@ -6,6 +6,7 @@ description: "Guardian is a friendly, feature-rich moderation tool for the Safeh
 tags: ["discord"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
 ---
 
 ### What is Guardian?

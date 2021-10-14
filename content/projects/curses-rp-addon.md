@@ -6,6 +6,7 @@ description: "Curse's RP Addon is a datapack for Minecraft: Java Edition that ai
 tags: ["minecraft", "datapacks", "games"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
 ---
 
 ### What is Curse's RP Addon?

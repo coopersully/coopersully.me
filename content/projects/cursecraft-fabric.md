@@ -6,6 +6,7 @@ description: "Cursecraft is an all-in-one fabric mod for Minecraft: Java Edition
 tags: ["minecraft", "fabric api", "mods", "games"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
 ---
 
 ### What is Cursecraft Fabric?
