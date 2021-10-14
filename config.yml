@@ -1,6 +1,6 @@
 title: Cooper Sullivan
 paginate: 5
-theme: PaperMod
+theme: "PaperMod"
 
 params:
     title: Cooper Sullivan
