@@ -42,7 +42,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Cooper Sullivan
-        subtitle: "This website serves as an e-portfolio for some of my projects & programs."
+        subtitle: "This website serves as an e-portfolio for some of my projects and programs."
         imageUrl: "https://i.imgur.com/jeOyUpL.jpg"
         imageWidth: 120
         imageHeight: 120
@@ -95,7 +95,7 @@ menu:
     main:
         - identifier: home
           name: home
-          url: 
+          url: /
           weight: 10
         - identifier: projects
           name: projects
