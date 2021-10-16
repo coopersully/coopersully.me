@@ -9,9 +9,14 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-### What is Vanilla Expansion?
+![](https://i.imgur.com/bHThEJB.png)
+
+### 📖 What is Vanilla Expansion?
 Vanilla Expansion is a datapack for Minecraft: Java Edition that aims to add a few new features to the game while still preserving that classic vanilla feel. 
 It adds several different quality-of-life features including new recipes, improved mob loot, additional game mechanics, and more.
 
-### Learn more about the project.
-If you'd like to explore the datapack a bit more or view any of its code, you can visit its [Github repository](https://Github.com/coopersully/vanilla-expansion). Alternatively, you can visit the project's [Planet Minecraft page](https://www.planetminecraft.com/data-pack/vanilla-expansion/) for a more minimized and simplistic view.
+### 📚 Learn more about the project.
+* [View this project on Github](https://github.com/coopersully/vanilla-expansion)
+	* If you'd like to explore the project a bit more or view any of it's code, this is the place to do it.
+* [View this project on Planet Minecraft](https://www.planetminecraft.com/data-pack/vanilla-expansion/)
+	* If you'd like a more minimized, overhead view of this project, you can see it's public page here.

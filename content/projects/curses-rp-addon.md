@@ -9,9 +9,15 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-### What is Curse's RP Addon?
+![](https://i.imgur.com/4IEB1DV.png)
+
+### 📖 What is Curse's RP Addon?
 Curse's RP Addon is a datapack for Minecraft: Java Edition that aims to change up the survival experience by adding roleplay-themed items, blocks, and mobs to the game. 
 It modifies the loot pools of mobs in the game to better immerse the player in an open world, roleplay-ready environment.
 There are several changes and additions to the loot found in structures throughout all worlds, as well as a few new variations of mobs to encounter along the way.
-### Learn more about the project.
-If you'd like to explore the datapack a bit more or view any of its code, you can visit its [Github repository](https://Github.com/coopersully/rp-addon). Alternatively, you can visit the project's [Planet Minecraft page](https://www.planetminecraft.com/data-pack/curse-s-rp-addon/) for a more minimized and simplistic view.
+
+### 📚 Learn more about the project.
+* [View this project on Github](https://github.com/coopersully/rp-addon)
+	* If you'd like to explore the project a bit more or view any of it's code, this is the place to do it.
+* [View this project on Planet Minecraft](https://www.planetminecraft.com/data-pack/curse-s-rp-addon)
+	* If you'd like a more minimized, overhead view of this project, you can see it's public page here.
