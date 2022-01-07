@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-![](https://i.imgur.com/1X5K33G.png)
+![](static/images/showdown-messy.png)
 
 ### 📖 What is Showdown?
 Showdown is a datapack for Minecraft: Java Edition that completely immerses the player in a superpowered, battle-royale gamemode.
@@ -18,4 +18,4 @@ There are brand new weapons, tools, abilities, and overhauled game mechanics to 
 
 ### 📚 Learn more about the project.
 * [View this project on Github](https://github.com/coopersully/showdown)
-	* If you'd like to explore the project a bit more or view any of it's code, this is the place to do it.
+	* If you'd like to explore the project a bit more or view any of its code, this is the place to do it.

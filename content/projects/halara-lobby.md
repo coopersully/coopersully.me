@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-![](https://i.imgur.com/vYV2BB9.png)
+![](static/images/halara-plugins/orange.png)
 
 ### 📖 What is Halara-Lobby?
 Halara-Lobby is a plugin (additive file) for Minecraft: Java Edition built with the [Spigot API](https://hub.spigotmc.org/stash/projects/SPIGOT).
@@ -18,4 +18,4 @@ automations & user-interfaces for a much quicker and easier server-navigation ex
 
 ### 📚 Learn more about the project.
 * [View this project on Github](https://github.com/coopersully/halara-lobby)
-	* If you'd like to explore the project a bit more or view any of it's code, this is the place to do it.
+	* If you'd like to explore the project a bit more or view any of its code, this is the place to do it.
