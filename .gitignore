@@ -10,3 +10,5 @@ hugo.darwin
 node_modules
 dist
 tmp
+
+.DS_Store
