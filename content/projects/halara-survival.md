@@ -3,7 +3,7 @@ author: "Cooper Sullivan"
 title: "Halara-Survival"
 date: "2021-10-07"
 description: "A spigot plugin that adds commands and mechanics for the Survival server on Halara Network."
-tags: ["minecraft", "plugins", "spigot"]
+tags: ["minecraft", "mods", "spigot-api"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

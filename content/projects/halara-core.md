@@ -3,7 +3,7 @@ author: "Cooper Sullivan"
 title: "Halara-Core"
 date: "2021-08-11"
 description: "A spigot plugin that adds commands and mechanics for all servers on Halara Network."
-tags: ["minecraft", "plugins", "spigot"]
+tags: ["minecraft", "mods", "spigot-api"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

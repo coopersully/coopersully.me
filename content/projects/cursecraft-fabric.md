@@ -3,7 +3,7 @@ author: "Cooper Sullivan"
 title: "Cursecraft Fabric"
 date: "2021-09-15"
 description: "Cursecraft is an all-in-one fabric mod for Minecraft: Java Edition that aims to do one thing: expand the survival experience; it implements new items, blocks, dimensions, game mechanics, and more, all tied together with a connected storyline."
-tags: ["minecraft", "fabric api", "mods", "games"]
+tags: ["minecraft", "fabric-api", "mods", "games"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false
