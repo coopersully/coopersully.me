@@ -1,5 +1,8 @@
 ---
 title: Discord
-description: A modernized communication platform. Learn more about Discord at https://www.discord.com/
+description: |
+  A modernized VoIP and instant messaging platform.
+  
+  🔗 [Click here to learn more about Discord.](https://discord.com/)
 draft: false
 ---

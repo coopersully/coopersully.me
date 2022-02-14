@@ -5,7 +5,7 @@ theme: "PaperMod"
 params:
     title: Cooper Sullivan
     description: "An e-portfolio for some of my projects & programs."
-    keywords: [Blog, Portfolio, PaperMod]
+    keywords: [Software, Developer, Computer, Blog, Portfolio, PaperMod]
     author: Cooper Sullivan
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
@@ -27,11 +27,11 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         disableFingerprinting: true
-        favicon: "https://i.imgur.com/V3WyarA.png"
-        favicon16x16: "https://i.imgur.com/sYXAGAB.png"
-        favicon32x32: "https://i.imgur.com/w5k0qry.png"
-        apple_touch_icon: "https://i.imgur.com/V3WyarA.png"
-        safari_pinned_tab: "https://i.imgur.com/V3WyarA.png"
+        favicon: "/favicon.svg"
+        favicon16x16: "/favicon.svg"
+        favicon32x32: "/favicon.svg"
+        apple_touch_icon: "images/logo.png"
+        safari_pinned_tab: "images/logo.png"
 
     label:
         text: "Cooper Sullivan"

@@ -2,14 +2,14 @@
 author: "Cooper Sullivan"
 title: "Guardian"
 date: "2021-09-15"
-description: "A friendly, feature-rich moderation bot for Discord servers."
+summary: "A friendly and feature-rich bot made to serve as an all-in-one solution for Discord servers."
 tags: ["discord"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false
 ---
 
-![](static/images/guardian-banner.png)
+![](/images/guardian-banner.png)
 
 ### 📖 What is Guardian?
 Guardian is a friendly, feature-rich moderation tool for Discord servers with several features:
@@ -27,6 +27,7 @@ This is just a sprinkle of the features that Guardian can add to a Discord serve
 If you're interested in seeing all of Guardian's additions, would like to view its documentation, 
 or have any questions, visit it's official website below.
 
-### 📚 Learn more about the project.
-* [View this project on it's website](https://guardian.coopersully.me/)
-	* If you'd like to explore the project a bit more, you can see its public page and documentation here.
+### 📚 Learn more about the project:
+If you'd like to explore the project a bit more, you can see its public website and documentation below.
+
+🔗 [Click here to view this project on it's website](https://guardian.coopersully.me/)

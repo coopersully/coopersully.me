@@ -1,5 +1,5 @@
 ---
 title: Games
-description: All game-related projects.
+description: "All game-related projects."
 draft: false
 ---
