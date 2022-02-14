@@ -33,8 +33,9 @@ I'm currently enrolled as an undergraduate at Samford University, studying for m
 | :-: | :-: |
 | Adobe After Effects | Adobe Acrobat |
 | Adobe Premiere Pro | Adobe Illustrator |
-| Maya | Google Workspace Adobe Photohop |
-| Unity | Adobe Photoshop | Apple iWork Suite (Pages, Numbers, Keynote) |
+| Maya | Adobe Photohop |
+| Unity | Adobe Photoshop |
+| | Apple iWork Suite (Pages, Numbers, Keynote) |
 | | Google Workspace (Gmail, Calendar, Meet, Drive, Docs, Sheets, Slides, Forms, etc.) |
 | | Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, etc.) |
 
