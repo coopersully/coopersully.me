@@ -16,8 +16,9 @@ I'm currently enrolled as an undergraduate at Samford University, studying for m
 ![](https://github-readme-stats.vercel.app/api?username=coopersully&bg_color=00000000&text_color=58a6ff&show_icons=true&include_all_commits=true#center)
 
 ### Languages & Libraries
+Below you'll find a list of languages and libraries that I've worked with; they are categorized by experience and listed alphabetically.
 
-| Those I have experience with (~25-50% proficiency) | Those I'm proficient in (75%+ proficiency) |
+| Those I have experience with (~25-50% proficiency) | Those I'm proficient in (80%+ proficiency) |
 | :-: | :-: |
 | Batch | JSON |
 | C | Java |
@@ -29,13 +30,14 @@ I'm currently enrolled as an undergraduate at Samford University, studying for m
 | Python | |
 
 ### Applications & Tools
-| Those I have experience with (~25-50% proficiency) | Those I'm proficient in (75%+ proficiency) |
+Below you'll find a list of software that I've worked with; they are categorized by experience and listed alphabetically
+| Those I have experience with (~25-50% proficiency) | Those I'm proficient in (80%+ proficiency) |
 | :-: | :-: |
 | Adobe After Effects | Adobe Acrobat |
 | Adobe Premiere Pro | Adobe Illustrator |
 | Maya | Adobe Photohop |
 | Unity | Adobe Photoshop |
-| | Apple iWork Suite (Pages, Numbers, Keynote) |
+| | iWork Suite (Pages, Numbers, Keynote) |
 | | Google Workspace (Gmail, Calendar, Meet, Drive, Docs, Sheets, Slides, Forms, etc.) |
 | | Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, etc.) |
 
