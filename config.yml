@@ -43,9 +43,9 @@ params:
         enabled: true # needs to be explicitly set
         title: Cooper Sullivan
         subtitle: "This website serves as an e-portfolio for some of my projects and programs."
-        imageUrl: "https://i.imgur.com/jeOyUpL.jpg"
-        imageWidth: 120
-        imageHeight: 120
+        imageUrl: "/images/profile-picture.png"
+        imageWidth: 240
+        imageHeight: 240
         imageTitle: Cooper Sullivan
         buttons:
             - name: View Projects
@@ -96,19 +96,23 @@ menu:
         - identifier: home
           name: home
           url: /
-          weight: 10
+          weight: 1
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 2
         - identifier: projects
           name: projects
           url: /projects/
-          weight: 20
+          weight: 3
         - identifier: tags
           name: tags
           url: /tags/
-          weight: 30
+          weight: 4
         - identifier: search
           name: search
           url: /search/
-          weight: 40
+          weight: 5
           
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
