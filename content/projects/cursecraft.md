@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-![](/images/cursecraft-datapack.png)
+![](/images/cursecraft-datapack.png#center)
 
 ### 📖 What is Cursecraft?
 Cursecraft is a datapack for Minecraft: Java Edition that aims to do one thing: expand the survival experience.
@@ -17,7 +17,7 @@ This datapack creates a modpack-like experience with minimal installation, a con
 Unlike my previous datapacks, the goal of this datapack is to completely overhaul the survival experience.
 Cursecraft adds brand new quest-lines, items, blocks, mobs, game mechanics, dimensions, and so much more.
 
-### Overview
+### 🔎 Overview
 #### Goals & Achievements
 The goal of this gamemode is to provide a story-driven modpack-like experience all in a datapack.
 It plays with the ideas of automation & machinery, magic, good and evil, light and dark, and the combination of all of these things for a greater purpose.

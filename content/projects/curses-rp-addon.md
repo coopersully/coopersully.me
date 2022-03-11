@@ -9,14 +9,14 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-![](/images/curses-rpg-addon.png)
+![](/images/curses-rpg-addon.png#center)
 
 ### 📖 What is Curse's RPG Addon?
 Curse's RPG Addon is a datapack for Minecraft: Java Edition that aims to change up the survival experience by adding roleplay-themed items, blocks, and mobs to the game. 
 It modifies the loot pools of mobs in the game to better immerse the player in an open world, roleplay-ready environment.
 There are several changes and additions to the loot found in structures throughout all worlds, as well as a few new variations of mobs to encounter along the way.
 
-### Overview
+### 🔎 Overview
 #### Treasure Items
 This datapack adds several new items and item variants that players can find via exploration;
 these items are labeled "Treasure Items" and can be identified by their unique names, appearances, and "Statistics" tabs in their descriptions.

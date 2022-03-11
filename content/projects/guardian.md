@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-![](/images/guardian-banner.png)
+![](/images/guardian-banner.png#center)
 
 ### 📖 What is Guardian?
 Guardian is a friendly, feature-rich moderation tool for Discord servers with several features:
@@ -18,7 +18,7 @@ Guardian is a friendly, feature-rich moderation tool for Discord servers with se
 - Connections to social media sites such as Twitter and Instagram, allowing users to search the platforms via easy chat commands.
 - An in-depth event and change log like no other, monitoring [almost every event](https://guardian.coopersully.me/docs/logs/) occurring in guilds.
 
-### Overview
+### 🔎 Overview
 #### Advanced Audit Logging
 While Discord's native Audit Logs are a great way to keep a record of different happenings in your server,
 they're pretty incomplete and lack detail. Each server's Audit Logs, however, are managed automatically by
@@ -63,11 +63,11 @@ documentation under the [commands](https://guardian.coopersully.me/docs/commands
 - ``/storage <view ︱ upload ︱ download> <path>`` allows administrators to view, download, and upload files stored in the bot's directory.
 - ``/dadjoke`` replies with a witty dad-joke with 202,426 possibilities.
 
+### 📚 Learn more about the project:
 > This is just a sprinkle of the features that Guardian can add to a Discord server. 
 If you're interested in seeing all of Guardian's additions, would like to view its documentation, 
 or have any questions, visit it's official website below.
 
-### 📚 Learn more about the project:
 If you'd like to explore the project a bit more, you can see its public website and documentation below.
 
 🔗 [Click here to view this project on it's website](https://guardian.coopersully.me/)

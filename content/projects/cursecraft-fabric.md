@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 draft: false
 ---
 
-![](/images/cursecraft-fabric.png)
+![](/images/cursecraft-fabric.png#center)
 
 ### 📖 What is Cursecraft Fabric?
 Cursecraft is an all-in-one fabric mod for Minecraft: Java Edition that aims to do one thing: expand the survival experience;
@@ -17,7 +17,7 @@ it implements new items, blocks, dimensions, game mechanics, and more, all tied 
 Unlike our previous datapacks such as Vanilla Expansion, the goal of this datapack is to completely overhaul the survival experience.
 Cursecraft adds brand new quest-lines, items, blocks, mobs, game mechanics, dimensions, potions, enchantments, and so much more.
 
-### Overview
+### 🔎 Overview
 #### Goals & Achievements
 The goal of this gamemode is to provide a story-driven modpack-like experience all in a datapack.
 It plays with the ideas of automation & machinery, magic, good and evil, light and dark, and the combination of all of these things for a greater purpose.
@@ -43,7 +43,7 @@ There are several dimensions added to the game, the most notable of which are:
 	- A hostile, wasteland planet rich in rare minerals but riddled with danger.
 	- This dimension can only be accessed via building the Nex portal.
 
-#### ⚖️ How does it differ from the Cursecraft datapack?
+#### How does it differ from the Cursecraft datapack?
 Cursecraft Fabric is a modification made with the [Fabric API for Minecraft](https://fabricmc.net/); this allows the mod to
 drastically change the game at a level not possible with datapacks. All datapacks for Minecraft: Java Edition are written in
 MCFunction only and cannot change the game's actual code.
