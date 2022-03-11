@@ -18,8 +18,12 @@ and more for use all throughout the network.
 
 ### 🔎 Overview
 #### Commands
-- ``/help`` greets the user with an interactive chat-menu of F.A.Q.'s and useful topics for server-related issues. 
+- ``/help`` greets the user with an interactive chat-menu of F.A.Q.'s and useful topics for server-related issues (pictured below).
 	- Each topic contains a hyperlink to the server's website for a more detailed description of the corresponding issue and possible solutions.
+
+![](/images/halara-core/chat-menu.png#center)
+
+
 - ``/fakejoin [user]`` sends a pseudo-"join event" packet to the server, displaying a false user join message.
 	- This command can only be used by users with the ``group.moderator`` permission node.
 - ``/fakeleave [user]`` sends a pseudo-"join event" packet to the server, displaying a false user join message.
