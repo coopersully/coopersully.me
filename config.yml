@@ -43,7 +43,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Cooper Sullivan
         subtitle: "This website serves as an e-portfolio for some of my projects and programs."
-        imageUrl: "/images/profile-picture.png"
+        imageUrl: "/images/home.png"
         imageWidth: 240
         imageHeight: 240
         imageTitle: Cooper Sullivan
