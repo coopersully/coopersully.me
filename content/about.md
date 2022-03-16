@@ -26,7 +26,7 @@ Below you'll find a list of software that I've worked with; they are categorized
 | Adobe After Effects | Adobe Acrobat |
 | Adobe Premiere Pro | Adobe Illustrator |
 | Maya | Adobe Photohop |
-| Unity | |
-| | iWork Suite (Pages, Numbers, Keynote) |
+| Unity | iWork Suite (Pages, Numbers, Keynote) |
 | | Google Workspace (Gmail, Calendar, Meet, Drive, Docs, Sheets, Slides, Forms, etc.) |
+| | JetBrains Product Pack (IntelliJ IDEA, PyCharm, WebStorm, Rider, CLion, etc.) |
 | | Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, etc.) |
