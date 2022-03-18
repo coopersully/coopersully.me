@@ -1,7 +1,7 @@
 ---
 author: "Cooper Sullivan"
 title: "Baghead"
-date: "2021-02-20"
+date: "2022-02-20"
 summary: "A 3D, side-scrolling platformer game in which a young boy must save his kidnapped sister by battling monsters and collecting items."
 tags: ["unity", "games", "c#"]
 ShowToc: false
