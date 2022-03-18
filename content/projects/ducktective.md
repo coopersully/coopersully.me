@@ -19,9 +19,9 @@ current progress: removing and locking older storyline elements while adding new
 
 ### 🔎 Overview
 #### Storyline
-Gami, the story's protaganist, is on a mission to find and save the life of his sister, Aura. She has been kidnapped by a group of deranged cultists infamously known
-as "The Wayward." Gami chases the wayward, following them through the town and into the sewers. As he traverses the sewers, he must collect oxygen capsules to replentish
-his clean air supply and avoid suffocation.
+A young duck living with his mother is doing his daily chores when he returns home to a crime scene. The house is wrecked, his mother has disappeared,
+and seemingly the only lead he has is the message carved into the floor: "I'LL KEEP HER SAFE." In his search for his mother, he must complete quests,
+gather evidence, solve clues, and interrogate townsfolk.
 #### Screenshots
 ![](/images/ducktective/screenshot-01.png#center)
 
