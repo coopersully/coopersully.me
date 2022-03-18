@@ -1,0 +1,116 @@
+baseURL = "https://www.coopersully.me"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "Cooper Sullivan"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "FeelIt"
+
+[params]
+  # FeelIt theme version
+  version = "1.0.X"
+
+[params.home]
+  # FeelIt NEW | 0.2.0
+  rss = 10
+  # Home page profile
+[params.home.profile]
+  enable = true
+  # Gravatar Email for preferred avatar in home page
+  gravatarEmail = ""
+  # URL of avatar shown in home page
+  avatarURL = "/images/home.png"
+  # FeelIt CHANGED | 0.2.7
+  title = "Cooper Sullivan"
+  # subtitle shown in home page
+  subtitle = "This website serves as an e-portfolio for my projects and programs."
+  # whether to use typeit animation for subtitle
+  typeit = false
+  # whether to show social links
+  social = true
+  # FeelIt NEW | 0.2.0
+  disclaimer = ""
+# Home page posts
+[params.home.posts]
+  enable = false
+  # special amount of posts in each home posts page
+  paginate = 6
+  # FeelIt CHANGED | 1.0.1
+  imagePreview = true
+  # FeelIt DELETED | 0.2.0
+  # default behavior when you don't set "hiddenFromHomePage" in front matter
+  defaultHiddenFromHomePage = false
+
+[params.search]
+  enable = true
+  # type of search engine ("lunr", "algolia")
+  type = "lunr"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  # FeelIt NEW | 0.2.1
+  maxResultLength = 10
+  # FeelIt NEW | 0.2.3
+  snippetLength = 30
+  # FeelIt NEW | 0.2.1
+  highlightTag = "em"
+  # FeelIt NEW | 0.2.4
+  absoluteURL = false
+  [params.search.algolia]
+    index = ""
+    appID = ""
+    searchKey = ""
+
+[params.social]
+  GitHub = "coopersully"
+  Linkedin = "coopersully"
+  Instagram = "coopersully"
+  Stackoverflow = "15706415"
+  Email = "thecoopersully@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "About"
+    url = "/about/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Projects"
+    url = "/posts/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 4
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/khusika/FeelIt/issues/158)
+    noClasses = false

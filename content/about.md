@@ -17,7 +17,8 @@ I'm currently enrolled as an undergraduate at Samford University, studying for m
 
 ### Languages & Libraries
 Below you'll find a list of languages and libraries that I've worked with; they are listed alphanumerically with each level of estimated proficiency.
-![](/images/about/languages.png)
+
+![](/images/about/languages.png#center)
 
 ### Applications & Tools
 Below you'll find a list of software that I've worked with; they are categorized by experience and listed alphabetically
