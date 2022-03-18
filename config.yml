@@ -52,24 +52,14 @@ params:
               url: projects
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/coopersully/"
+        - name: linkedin
+          url: "https://linkedin.com/in/coopersully/"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/15706415/cooper-sullivan/"
         - name: github
           url: "https://github.com/coopersully/"
-#        - name: discord
-#          url: "https://discord.com/invite/best-server/"
-#        - name: email
-#          url: "thecoopersully@gmail.com"
         - name: instagram
           url: "https://instagram.com/coopersully"
-        - name: snapchat
-          url: "https://snapchat.com/add/coopersully"
-        - name: spotify
-          url: "https://open.spotify.com/user/coopersully?si=880fd722b6a5495d"
-        - name: twitch
-          url: "https://twitch.tv/cursedimpulse"
 
     cover:
         hidden: true # hide everywhere but not in structured data
