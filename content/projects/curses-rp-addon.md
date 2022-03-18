@@ -3,7 +3,7 @@ author: "Cooper Sullivan"
 title: "Curse's RPG Addon"
 date: "2021-04-04"
 summary: "Curse's RPG Addon is a datapack for Minecraft: Java Edition that aims to change up the survival experience by adding roleplay-themed items, blocks, and mobs to the game."
-tags: ["minecraft", "datapacks", "games"]
+tags: ["minecraft", "datapacks", "games", "mcfunction", "json"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

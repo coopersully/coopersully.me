@@ -3,7 +3,7 @@ author: "Cooper Sullivan"
 title: "Showdown"
 date: "2021-04-06"
 summary: "Showdown is a datapack for Minecraft: Java Edition that completely immerses the player in a superpowered, battle-royale gamemode."
-tags: ["minecraft", "datapacks", "games"]
+tags: ["minecraft", "datapacks", "games", "mcfunction", "json"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false
