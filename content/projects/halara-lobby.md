@@ -4,6 +4,7 @@ title: "Halara-Lobby"
 date: "2021-08-11"
 summary: "A spigot plugin that adds commands and mechanics for the Main Lobby on Halara Network."
 tags: ["minecraft", "mods", "spigot-api", "java"]
+Categories: ["personal"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

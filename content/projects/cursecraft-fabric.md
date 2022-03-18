@@ -4,6 +4,7 @@ title: "Cursecraft Fabric"
 date: "2021-09-15"
 summary: "An all-in-one mod for Minecraft: Java Edition that aims to take the survival experience to its limits."
 tags: ["minecraft", "fabric-api", "mods", "games", "mcfunction", "json", "java"]
+Categories: ["personal"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

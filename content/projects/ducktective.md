@@ -4,6 +4,7 @@ title: "Ducktective: Quacking the Case"
 date: "2022-03-15"
 summary: "A 3D, third-person RPG game in which a young boy must collect clues and solve puzzles to save his mother from her captor."
 tags: ["unity", "games", "csharp"]
+Categories: ["personal"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

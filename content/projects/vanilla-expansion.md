@@ -4,6 +4,7 @@ title: "Vanilla Expansion"
 date: "2021-03-30"
 summary: "Vanilla Expansion is a datapack for Minecraft: Java Edition that aims to add a few new features to the game while still preserving that classic vanilla feel."
 tags: ["minecraft", "datapacks", "games", "mcfunction", "json"]
+Categories: ["personal"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

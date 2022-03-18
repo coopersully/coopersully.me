@@ -4,6 +4,7 @@ title: "Guardian"
 date: "2021-09-15"
 summary: "A friendly and feature-rich bot made to serve as an all-in-one solution for Discord servers."
 tags: ["discord", "java", "json"]
+Categories: ["personal"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false

@@ -4,6 +4,7 @@ title: "Cursecraft"
 date: "2021-06-05"
 summary: "An datapack for Minecraft: Java Edition that aims to take the survival experience to its limits while balancing minimal installation and high performance."
 tags: ["minecraft", "datapacks", "games", "mcfunction", "json"]
+Categories: ["personal"]
 ShowToc: false
 ShowBreadCrumbs: false
 draft: false
