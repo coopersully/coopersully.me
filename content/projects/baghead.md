@@ -22,7 +22,11 @@ Gami, the story's protaganist, is on a mission to find and save the life of his 
 as "The Wayward." Gami chases the wayward, following them through the town and into the sewers. As he traverses the sewers, he must collect oxygen capsules to replentish
 his clean air supply and avoid suffocation.
 #### Screenshots
-N/A
+![](/images/baghead/screenshot-01.png#center)
+
+![](/images/baghead/screenshot-02.png#center)
+
+![](/images/baghead/screenshot-03.png#center)
 
 ### 🧩 Collaborators
 This project had ten (10) total collaborators, each with their own designation.
